@@ -23,7 +23,7 @@ requirements:
     - fiona
     - mpi4py
     - mpich
-    - netcdf4 <1.4
+    - netcdf4
     - numpy
     - pyproj
     - rtree
